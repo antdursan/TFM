@@ -1,9 +1,0 @@
-Faltan algunas cosas porque no he tenido tiempo a más, ya que estas últimas semanas se acumulaban muchas entregas de asignaturas.
-
-El WebScrapping está completo y adjuntado el cuaderno WebScraping.ipynb
-
-El código del procesado, EDA y modelos está en el cuaderno TFM.ipynb
-
-En el Word he escrito algunas cosas, sobre todo de la parte de recolección de datos y EDA. 
-
-Faltan varias cosas que están hechas en los cuadernos y no están incluidas en el word.
