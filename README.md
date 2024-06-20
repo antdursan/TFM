@@ -1,14 +1,14 @@
 # Recomendador de Precios de Ventas de Vehículos de Segunda Mano
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo desarrollar una herramienta que ayude a los vendedores de vehículos de segunda mano a estimar el precio de venta adecuado para sus coches. Utilizando técnicas de aprendizaje supervisado, el modelo predice los precios basándose en datos extraídos de sitios web de ventas de automóviles. En concreto, se ha utilizado la web de venta de coches Autohero
+Este proyecto tiene como objetivo desarrollar una herramienta que ayude a los vendedores de vehículos de segunda mano a estimar el precio de venta adecuado para sus coches. Utilizando técnicas de aprendizaje supervisado, el modelo predice los precios basándose en datos extraídos de sitios web de ventas de automóviles. En concreto, se ha utilizado la web de venta de coches Autohero.
 
 ## Herramientas y Tecnologías
-* **Lenguaje de Programación**: Python es el lenguaje elegido debido a su amplio soporte para análisis de datos y modelado de machine learning.
+* **Lenguaje de Programación**: Python.
 * **Bibliotecas Utilizadas**:
   + `pandas` y `numpy` para la manipulación de datos.
   + `scikit-learn` para la construcción de modelos de aprendizaje automático.
   + `matplotlib` y `seaborn` para la visualización de datos.
-  + `BeautifulSoup` y `selenium` para el *web scraping*
+  + `BeautifulSoup` y `selenium` para el *web scraping*.
 
 ## Metodología
 El proyecto abarca todo el proceso de ciencia de datos:
