@@ -19,5 +19,3 @@ El proyecto abarca todo el proceso de ciencia de datos:
 4. **Modelado Predictivo**: Desarrollo de modelos de machine learning para estimar el precio de venta.
 5. **Evaluación del Modelo**: Comparación y validación de modelos para seleccionar el más preciso y eficiente.
 
-## Conclusión
-Este proyecto no solo proporciona una solución específica para la predicción de precios en el mercado de coches de segunda mano, sino que también muestra un enfoque integral de la ciencia de datos aplicable a diversas áreas. La clave está en las técnicas y modelos implementados, que pueden adaptarse a distintos tipos de datos y contextos.
